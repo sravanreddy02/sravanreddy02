@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sravan Reddy Banda
+- 👋 Hi, I’m @Sravan Banda
 - 👀 I’m interested in ...Data science
 - 🌱 I’m currently learning ...Data Science
 - 📫 How to reach me ... sravanreddy1687@gmail.com, https://www.linkedin.com/in/sravan-banda-3b06ab212/
